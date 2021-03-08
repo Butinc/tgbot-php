@@ -10,7 +10,7 @@
 require_once dirname(dirname(__FILE__)) . DIRECTORY_SEPARATOR . 'init.php';
 
 // 设置 token
-Common::set_config('token', '87628676:AAFacIOCzRaQUpKu3XXrCoTf1kgC-SUJTug');
+Common::set_config('token', '1626713741:AAEbcQ99daRwAdI-dGUOZOmjliYL05rsH3o');
 
 //清理 redis router 配置
 $bot = Db::get_bot_name();

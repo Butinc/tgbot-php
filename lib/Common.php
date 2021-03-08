@@ -124,9 +124,9 @@ class Common
 
     /**
      * 设置配置信息
-     * @param type $key
-     * @param type $value
-     * @return type
+     * @param string $key
+     * @param string $value
+     * @return void
      */
     public static function set_config($key, $value)
     {
